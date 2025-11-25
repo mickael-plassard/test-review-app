@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php": "~8.2"
+  },
+  "extra": {
+    "paas": {
+      "nginx-includes": ["config/nginx-https-redirection.conf"]
+    }
+  }
+}
